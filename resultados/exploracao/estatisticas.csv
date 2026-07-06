@@ -1,0 +1,3 @@
+arquivo;linhas;tamanho_mb;info;warn;error;debug;trace;fatal;exceptions;stack_traces
+arquivo.log;170358;444.56;0;0;1398;0;12;0;7602;0
+arquivo.out;1310620;485.1;186162;1485;10740;122773;34;0;21456;936631

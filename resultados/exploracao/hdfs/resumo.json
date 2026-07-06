@@ -1,0 +1,14 @@
+{
+    "dataset": "HDFS",
+    "arquivos": 1,
+    "linhas": 2000,
+    "tamanho_mb": 0.27,
+    "info": 1920,
+    "warn": 80,
+    "error": 0,
+    "debug": 0,
+    "trace": 0,
+    "fatal": 0,
+    "exceptions": 80,
+    "stack_traces": 0
+}

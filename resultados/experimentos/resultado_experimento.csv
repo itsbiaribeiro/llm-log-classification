@@ -1,0 +1,21 @@
+template;categoria_real;keywords;tfidf;llm
+block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000675_0/part-<id>. <block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir9/<block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir17/<block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir23/<block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir48/<block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir28/<block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir35/<block>;Disk Failure;Unknown;Disk Failure;
+block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000138_0/part-<id>. <block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir33/<block>;Disk Failure;Unknown;Disk Failure;
+block* namesystem.addstoredblock: blockmap updated: <ip>:<id> is added to <block> size <id>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir26/<block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir31/<block>;Disk Failure;Unknown;Disk Failure;
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_000742_0/part-<id>. <block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir41/<block>;Disk Failure;Unknown;Disk Failure;
+block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001728_0/part-<id>. <block>;Disk Failure;Unknown;Disk Failure;
+block* namesystem.delete: <block> is added to invalidset of <ip>:<id>;Disk Failure;Data Corruption;Disk Failure;
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_001866_0/part-<id>. <block>;Disk Failure;Unknown;Disk Failure;
+block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000296_0/part-<id>. <block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir1/<block>;Disk Failure;Unknown;Disk Failure;
+deleting block <block> file /mnt/hadoop/dfs/data/current/subdir19/<block>;Disk Failure;Unknown;Disk Failure;

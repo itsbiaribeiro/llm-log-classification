@@ -1,0 +1,2 @@
+arquivo,linhas,tamanho_mb,info,warn,error,debug,trace,fatal,exceptions,stack_traces
+HDFS_2k.log,2000,0.27,1920,80,0,0,0,0,80,0

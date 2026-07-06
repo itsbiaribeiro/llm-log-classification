@@ -1,0 +1,101 @@
+id;template;ocorrencias;categoria_real
+1;block* namesystem.addstoredblock: blockmap updated: <ip>:<id> is added to <block> size <id>;314;Disk Failure
+2;packetresponder <num> for block <block> terminating;311;Disk Failure
+3;received block <block> of size <id> from /<ip>;292;Disk Failure
+4;receiving block <block> src: /<ip>:<id> dest: /<ip>:<id>;292;Disk Failure
+5;block* namesystem.delete: <block> is added to invalidset of <ip>:<id>;224;Disk Failure
+6;<ip>:<id> served block <block> to /<ip>;80;Network Failure
+7;<ip>:<id>:got exception while serving <block> to /<ip>:;80;Network Failure
+8;verification succeeded for <block>;20;Disk Failure
+9;deleting block <block> file /mnt/hadoop/dfs/data/current/<block>;15;Disk Failure
+10;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir34/<block>;11;Disk Failure
+11;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir33/<block>;8;Disk Failure
+12;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir38/<block>;8;Disk Failure
+13;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir1/<block>;7;Disk Failure
+14;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir15/<block>;7;Disk Failure
+15;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir36/<block>;7;Disk Failure
+16;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir27/<block>;6;Disk Failure
+17;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir29/<block>;6;Disk Failure
+18;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir32/<block>;6;Disk Failure
+19;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir26/<block>;6;Disk Failure
+20;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir39/<block>;6;Disk Failure
+21;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir57/<block>;6;Disk Failure
+22;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir24/<block>;6;Disk Failure
+23;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir35/<block>;6;Disk Failure
+24;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir18/<block>;5;Disk Failure
+25;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir42/<block>;5;Disk Failure
+26;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir0/<block>;5;Disk Failure
+27;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir30/<block>;5;Disk Failure
+28;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir40/<block>;5;Disk Failure
+29;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir16/<block>;5;Disk Failure
+30;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir46/<block>;5;Disk Failure
+31;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir31/<block>;5;Disk Failure
+32;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir19/<block>;5;Disk Failure
+33;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir5/<block>;4;Disk Failure
+34;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir41/<block>;4;Disk Failure
+35;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir60/<block>;4;Disk Failure
+36;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir6/<block>;4;Disk Failure
+37;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir53/<block>;4;Disk Failure
+38;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir59/<block>;4;Disk Failure
+39;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir14/<block>;4;Disk Failure
+40;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir28/<block>;4;Disk Failure
+41;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir56/<block>;4;Disk Failure
+42;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir2/<block>;4;Disk Failure
+43;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir54/<block>;4;Disk Failure
+44;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir11/<block>;3;Disk Failure
+45;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir48/<block>;3;Disk Failure
+46;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir23/<block>;3;Disk Failure
+47;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir13/<block>;3;Disk Failure
+48;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir4/<block>;3;Disk Failure
+49;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir37/<block>;3;Disk Failure
+50;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir7/<block>;3;Disk Failure
+51;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir55/<block>;3;Disk Failure
+52;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir10/<block>;3;Disk Failure
+53;block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000318_0/part-<id>. <block>;2;Disk Failure
+54;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir9/<block>;2;Disk Failure
+55;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir25/<block>;2;Disk Failure
+56;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir47/<block>;2;Disk Failure
+57;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir21/<block>;2;Disk Failure
+58;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir50/<block>;2;Disk Failure
+59;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir45/<block>;2;Disk Failure
+60;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir22/<block>;2;Disk Failure
+61;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir61/<block>;2;Disk Failure
+62;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir52/<block>;2;Disk Failure
+63;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir63/<block>;2;Disk Failure
+64;block* ask <ip>:<id> to delete <block>;2;Disk Failure
+65;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir62/<block>;2;Disk Failure
+66;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir58/<block>;2;Disk Failure
+67;received block <block> src: /<ip>:<id> dest: /<ip>:<id> of size <id>;2;Disk Failure
+68;block* namesystem.allocateblock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001709_0/part-<id>. <block>;2;Disk Failure
+69;block* ask <ip>:<id> to delete <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block>;2;Disk Failure
+70;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir3/<block>;2;Disk Failure
+71;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir17/<block>;2;Disk Failure
+72;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir43/<block>;2;Disk Failure
+73;block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_000590_0/part-<id>. <block>;1;Disk Failure
+74;block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_000742_0/part-<id>. <block>;1;Disk Failure
+75;block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_000487_0/part-<id>. <block>;1;Disk Failure
+76;block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_001648_0/part-<id>. <block>;1;Disk Failure
+77;block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_001866_0/part-<id>. <block>;1;Disk Failure
+78;block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000296_0/part-<id>. <block>;1;Disk Failure
+79;block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000230_0/part-<id>. <block>;1;Disk Failure
+80;block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000169_0/part-<id>. <block>;1;Disk Failure
+81;block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_200811092030_0002_r_000138_0/part-<id>. <block>;1;Disk Failure
+82;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000382_0/part-<id>. <block>;1;Disk Failure
+83;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000392_0/part-<id>. <block>;1;Disk Failure
+84;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000675_0/part-<id>. <block>;1;Disk Failure
+85;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000705_0/part-<id>. <block>;1;Disk Failure
+86;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001095_0/part-<id>. <block>;1;Disk Failure
+87;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001365_0/part-<id>. <block>;1;Disk Failure
+88;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001506_0/part-<id>. <block>;1;Disk Failure
+89;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001597_0/part-<id>. <block>;1;Disk Failure
+90;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001377_0/part-<id>. <block>;1;Disk Failure
+91;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001728_0/part-<id>. <block>;1;Disk Failure
+92;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001661_0/part-<id>. <block>;1;Disk Failure
+93;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001630_0/part-<id>. <block>;1;Disk Failure
+94;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001817_0/part-<id>. <block>;1;Disk Failure
+95;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001840_0/part-<id>. <block>;1;Disk Failure
+96;block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001976_0/part-<id>. <block>;1;Disk Failure
+97;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir51/<block>;1;Disk Failure
+98;block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811101024_0001_m_000206_0/part-<id>. <block>;1;Disk Failure
+99;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir20/<block>;1;Disk Failure
+100;deleting block <block> file /mnt/hadoop/dfs/data/current/subdir12/<block>;1;Disk Failure

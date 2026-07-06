@@ -1,0 +1,58 @@
+# ===========================
+# Ambiente virtual
+# ===========================
+.venv/
+venv/
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ===========================
+# Variáveis de ambiente
+# ===========================
+.env
+
+# ===========================
+# VS Code
+# ===========================
+.vscode/
+
+# ===========================
+# Logs
+# ===========================
+*.log
+*.out
+
+# ===========================
+# Dados sensíveis
+# ===========================
+dados/brutos/
+dados/anonimizados/
+
+# CSVs da empresa
+resultados/experimentos/empresa_templates_rotulado.csv
+resultados/experimentos/resultado_empresa.csv
+resultados/experimentos/metricas_empresa.csv
+
+# ===========================
+# Arquivos do sistema
+# ===========================
+Thumbs.db
+.DS_Store
+
+# ===========================
+# Resultados da empresa
+# ===========================
+
+resultados/experimentos/empresa_templates.csv
+resultados/experimentos/empresa_templates_falhas.csv
+resultados/experimentos/empresa_templates_rotulado.csv
+resultados/experimentos/metricas_empresa.csv
+resultados/experimentos/resultado_empresa.csv
+
+# Exploração dos logs da empresa
+resultados/exploracao/empresa/
