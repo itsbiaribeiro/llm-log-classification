@@ -44,9 +44,7 @@ resultados/experimentos/metricas_empresa.csv
 Thumbs.db
 .DS_Store
 
-# ===========================
 # Resultados da empresa
-# ===========================
 
 resultados/experimentos/empresa_templates.csv
 resultados/experimentos/empresa_templates_falhas.csv
@@ -56,3 +54,10 @@ resultados/experimentos/resultado_empresa.csv
 
 # Exploração dos logs da empresa
 resultados/exploracao/empresa/
+
+# Manuscritos do artigo
+artigo/*.docx
+
+# Arquivos temporários do Word
+artigo/~$*
+artigo/*.tmp
